@@ -1,22 +1,129 @@
-# 💫 About Me:
-Hi 👋 I’m Dhiraj Gupta, a Computer Science undergraduate passionate about building scalable full-stack web applications and solving real-world problems using modern technologies.<br>🔭 I’m currently working on Building and improving full-stack MERN applications with focus on performance, security, and real-world use cases. Recently worked on NGO and AI-based projects deployed to production.<br>👯 I’m looking to collaborate on open-source projects, full-stack web applications, MERN stack projects, and real-world problem-solving applications.<br>🤝 I’m looking for help with Advanced system design, scalable backend architectures, and optimizing applications for high traffic.<br>🌱 I’m currently learning Advanced Data Structures & Algorithms, System Design basics, Cloud (AWS), Docker, CI/CD pipelines, and scalable backend development.<br>💬 Ask me about React.js, Node.js, Express.js, MongoDB, MERN stack, REST APIs, Docker, AWS basics, DSA, and building production-ready web applications.<br>⚡ Fun fact I enjoy turning ideas into live products and have deployed multiple real-world applications used by actual users.
+<!-- ================= HEADER ================= -->
 
+<h1 align="center">Hi 👋, I'm Dhiraj Gupta</h1>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/dhirajgupta1002) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dhirajgupta1002@gmail.com)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=MERN+Stack+Developer;React+%7C+Next.js+Enthusiast;Cloud+Learner+%7C+Problem+Solver;Building+Roomify+🚀&center=true&width=500&height=50">
+</p>
 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=dhiraj10002&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=dhiraj10002&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=dhiraj10002&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Dhiraj10002&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=dhiraj10002&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# 🚀 About Me
+
+- 🎓 B.Tech CSE Graduate  
+- 💻 Focused on **MERN + Cloud Engineering**
+- 🏨 Building **Roomify – Hotel Booking Platform**
+- 🧠 Practicing **DSA daily (LeetCode)**
+- ☁️ Learning **Docker, AWS & CI/CD**
+- 🎯 Goal: **Production-ready Full Stack Engineer**
+
+---
+
+# 🛠️ Tech Stack
+
+### 👨‍💻 Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind" />
+</p>
+
+### ⚙️ Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,prisma,redis" />
+</p>
+
+### ☁️ DevOps & Cloud
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,docker,githubactions" />
+</p>
+
+---
+
+# 🏨 Featured Project
+
+## 🚀 Roomify — Hotel Booking Platform
+
+✨ Modern full-stack hotel booking application built with MERN.
+
+**🔹 Features**
+
+- 🔍 Smart hotel search  
+- 🏨 Detailed hotel pages  
+- 🔐 Authentication system  
+- 📅 Booking management  
+- ☁️ Cloud deployment ready  
+
+📌 *(Project link will be added once deployed)*
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Dhiraj10002&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Dhiraj10002&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhiraj10002&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Dhiraj10002&theme=tokyonight&row=1&column=6" />
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Dhiraj10002/Dhiraj10002/output/snake.svg" alt="snake animation" />
+</p>
+
+---
+
+# 🎯 Current Focus
+
+- 🔥 Advanced MERN Architecture  
+- ⚡ System Design Basics  
+- ☁️ AWS Deployment  
+- 🧠 DSA Pattern Mastery  
+- 🏨 Scaling Roomify  
+
+---
+
+# 🌐 Connect With Me
+
+<p align="left">
+<a href="https://www.linkedin.com/in/dhirajgupta1002/" target="blank">
+<img align="center" src="https://skillicons.dev/icons?i=linkedin" height="30" />
+</a>
+
+<a href="https://leetcode.com/u/dhirajgupta1002/" target="blank">
+<img align="center" src="https://assets.leetcode.com/static_assets/public/icons/favicon-32x32.png" height="30" />
+</a>
+
+<a href="https://github.com/Dhiraj10002" target="blank">
+<img align="center" src="https://skillicons.dev/icons?i=github" height="30" />
+</a>
+</p>
+
+---
+
+# 💡 Quote
+
+> **"Consistency beats intensity."** 🔥
+
+---
+
+⭐️ From [Dhiraj Gupta](https://github.com/Dhiraj10002)
