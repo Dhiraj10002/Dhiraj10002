@@ -14,21 +14,14 @@
 
 ---
 
-## 🚀 About Me
-
-- 🎓 B.Tech CSE Graduate  
-- 💻 Focused on **MERN + Cloud Engineering**  
-- 🏨 Currently building **Roomify – Hotel Booking Platform**  
-- 🧠 Daily **DSA Practice (LeetCode)**  
-- ☁️ Learning **Docker • AWS • CI/CD**  
-- 🎯 Goal: **Production-Ready Full Stack Developer**
+# 💫 About Me:
+Hi 👋 I’m Dhiraj Gupta, a Computer Science undergraduate passionate about building scalable full-stack web applications and solving real-world problems using modern technologies.<br>🔭 I’m currently working on Building and improving full-stack MERN applications with focus on performance, security, and real-world use cases. Recently worked on NGO and AI-based projects deployed to production.<br>👯 I’m looking to collaborate on open-source projects, full-stack web applications, MERN stack projects, and real-world problem-solving applications.<br>🤝 I’m looking for help with Advanced system design, scalable backend architectures, and optimizing applications for high traffic.<br>🌱 I’m currently learning Advanced Data Structures & Algorithms, System Design basics, Cloud (AWS), Docker, CI/CD pipelines, and scalable backend development.<br>💬 Ask me about React.js, Node.js, Express.js, MongoDB, MERN stack, REST APIs, Docker, AWS basics, DSA, and building production-ready web applications.<br>⚡ Fun fact I enjoy turning ideas into live products and have deployed multiple real-world applications used by actual users.
 
 ---
 
 ## 📈 Contribution Statistics
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Dhiraj10002&show_icons=true&theme=tokyonight&hide_border=true" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Dhiraj10002&theme=tokyonight&hide_border=true" />
 </p>
 
