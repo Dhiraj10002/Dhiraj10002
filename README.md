@@ -47,7 +47,7 @@ Hi 👋 I’m Dhiraj Gupta, a Computer Science undergraduate passionate about bu
 - ⚡ System Design Basics  
 - ☁️ AWS Deployment  
 - 🧩 DSA Pattern Mastery  
-- 🏨 Scaling Roomify  
+- 🏨 DevOps Basics  
 
 ---
 
