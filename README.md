@@ -1,82 +1,202 @@
-<!-- ================= HEADER GIF ================= -->
+<div align="center">
 
-<img src="https://i.pinimg.com/originals/b3/26/51/b326517cd8ca44b939a1bee41a7f103c.gif" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=header" width="100%" />
 
-<h1 align="center">Hello Fellow &lt;Coders/&gt;! 👋</h1>
+```
+██████╗ ██╗  ██╗██╗██████╗  █████╗      ██╗
+██╔══██╗██║  ██║██║██╔══██╗██╔══██╗     ██║
+██║  ██║███████║██║██████╔╝███████║     ██║
+██║  ██║██╔══██║██║██╔══██╗██╔══██║██   ██║
+██████╔╝██║  ██║██║██║  ██║██║  ██║╚█████╔╝
+╚═════╝ ╚═╝  ╚═╝╚═╝╚═╝  ╚═╝╚═╝  ╚═╝ ╚════╝
+                                            G U P T A
+```
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&center=true&vCenter=true&duration=3500&color=%2338C2FF&size=35&height=60&width=800&lines=Hey!+I'm+Dhiraj+Gupta;MERN+Stack+Developer;React+%7C+Next.js+Learner;Building+Roomify+🚀;Future+Full+Stack+Engineer" />
+<p>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=600&lines=Full-Stack+%2F%2F+MERN+Developer;Building+Scalable+Production+Apps;React+%7C+Next.js+%7C+Node.js+%7C+TypeScript;Delta+Lake+%2B+Lakehouse+Explorer;Knight+%40+LeetCode+%7C+800%2B+Problems+Solved" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Dhiraj10002&style=for-the-badge" />
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhirajgupta1002/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dhiraj10002)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/dhirajgupta1002/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5733?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/Dhiraj10002)
+[![Views](https://komarev.com/ghpvc/?username=Dhiraj10002&style=for-the-badge&color=blueviolet)](https://github.com/Dhiraj10002)
+
+</div>
 
 ---
 
-# 💫 About Me:
-Hi 👋 I’m Dhiraj Gupta, a Computer Science undergraduate passionate about building scalable full-stack web applications and solving real-world problems using modern technologies.<br>🔭 I’m currently working on Building and improving full-stack MERN applications with focus on performance, security, and real-world use cases. Recently worked on NGO and AI-based projects deployed to production.<br>👯 I’m looking to collaborate on open-source projects, full-stack web applications, MERN stack projects, and real-world problem-solving applications.<br>🤝 I’m looking for help with Advanced system design, scalable backend architectures, and optimizing applications for high traffic.<br>🌱 I’m currently learning Advanced Data Structures & Algorithms, System Design basics, Cloud (AWS), Docker, CI/CD pipelines, and scalable backend development.<br>💬 Ask me about React.js, Node.js, Express.js, MongoDB, MERN stack, REST APIs, Docker, AWS basics, DSA, and building production-ready web applications.<br>⚡ Fun fact I enjoy turning ideas into live products and have deployed multiple real-world applications used by actual users.
+## `whoami`
+
+```ts
+const dhiraj: Developer = {
+  name:        "Dhiraj Gupta",
+  education:   "B.Tech CSE @ Kurukshetra University (2022–2026)",
+  location:    "Haryana, India",
+  currentRole: "Full-Stack Developer Intern @ Zversal Pvt Ltd",
+  focus:       ["MERN Stack", "System Design", "Data Engineering", "DevOps"],
+  funFact:     "I ship real-world apps, not just side projects 🚀",
+};
+```
 
 ---
 
-## 📈 Contribution Statistics
+## 💼 Experience
 
-<p align="center">
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Dhiraj10002&theme=tokyonight&hide_border=true" />
-</p>
+### 🔹 Full-Stack Developer Intern — Zversal Pvt Ltd *(Apr 2026 – Present)*
+> Delta Lake · Docker · DuckDB · Apache Spark · Lakehouse Architecture
 
----
-
-## 📊 Activity Graph
-
-[![Dhiraj's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Dhiraj10002&theme=tokyo-night)](https://github.com/Dhiraj10002)
+- Evaluated **Lakekeeper** for Delta Lake metadata management — catalogs, namespaces, table governance & scalable data architectures
+- Performed data ingestion, schema evolution, metadata analysis & partition management with **Docker + Delta Lake**
+- Explored snapshot versioning, time travel & transaction logs for data lineage and auditability
+- Integrated **Delta Lake** with **DuckDB** and **Apache Spark** for modern lakehouse analytics
 
 ---
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+### 🔹 Software Engineer Intern — CyberSRC Consultancy *(Jan 2026 – Mar 2026)*
+> Next.js · TypeScript · PostgreSQL · Redis · REST APIs
+
+- Architected a **CXO Risk Monitoring Dashboard** with Next.js + TypeScript for real-time executive insights
+- Reduced dashboard load time by **35%** via optimized REST API pipelines and **Redis caching**
+- Built scalable frontend components handling **50K+ records** with enhanced data visualization
+- Contributed to **microservices-aligned** modular backend architecture
 
 ---
 
+## 🚀 Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 🌐 Mannat Foundation
+**React · Node · Express · MongoDB · Docker · AWS · CI/CD · Nginx**
+
+> Production-grade NGO platform with real users
+
+- 🔐 JWT role-based auth — reduced manual updates by **60%**
+- ⚡ Load speed improved **30–35%** via caching & asset delivery
+- 👥 Supports **500+ monthly users**
+- 🏗️ End-to-end full-stack: content, events & campaigns
+
+</td>
+<td width="50%">
+
+### 🤖 Imagify
+**React · Node · Express · MongoDB · Redux · Generative AI · Razorpay · CI/CD**
+
+> AI text-to-image platform powered by Generative AI
+
+- 🎨 Real-time image synthesis from user prompts
+- ⚡ Reduced image generation latency by **25–30%**
+- 📦 Handles **1,000+ image generations** on a robust backend
+- 💳 Integrated **Razorpay** for payments & token management
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🧠 Currently Focusing On
+## 🛠️ Tech Stack
 
-- 🔥 Advanced MERN Architecture  
-- ⚡ System Design Basics  
-- ☁️ AWS Deployment  
-- 🧩 DSA Pattern Mastery  
-- 🏨 DevOps Basics  
+### Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+### Frameworks & Libraries
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
+![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+
+### Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+
+### DevOps & Cloud
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonwebservices&logoColor=black)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+
+### Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
+![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=flat-square&logo=duckdb&logoColor=black)
 
 ---
 
+## 📊 GitHub Stats
 
+<div align="center">
 
----
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Dhiraj10002&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Dhiraj10002&theme=tokyonight&hide_border=true" />
 
-## 🌐 Connect With Me
+<br/>
 
-<p align="center">
-<a href="https://www.linkedin.com/in/dhirajgupta1002/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
-</a>
-&nbsp;&nbsp;
-<a href="https://leetcode.com/u/dhirajgupta1002/" target="_blank">
-  <img src="https://assets.leetcode.com/static_assets/public/icons/favicon-32x32.png" height="40" />
-</a>
-&nbsp;&nbsp;
-<a href="https://github.com/Dhiraj10002" target="_blank">
-  <img src="https://skillicons.dev/icons?i=github" height="40" />
-</a>
-</p>
+<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhiraj10002&theme=tokyonight&hide_border=true&layout=compact" />
+
+</div>
 
 ---
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+## 🏆 Achievements
 
+| 🏅 | Achievement |
+|---|---|
+| ⚔️ | **Knight** on LeetCode — Top 10% in problem solving |
+| 🧠 | **800+ problems** solved across LeetCode, GFG & Coding Ninjas |
+| 🇮🇳 | Cleared **Smart India Hackathon** college round among 25 teams |
+| 🏆 | **3rd place** in College Hackathon — 20+ competing teams |
+| 🎯 | Top Performer — **TATA Crucible Campus Quiz** & Naukri Young Turks 2025 |
 
 ---
 
-⭐ From [Dhiraj Gupta](https://github.com/Dhiraj10002)
+## 📈 Activity
+
+[![Dhiraj's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Dhiraj10002&theme=tokyo-night&hide_border=true)](https://github.com/Dhiraj10002)
+
+---
+
+## 🎯 Currently Leveling Up
+
+```
+✦ Advanced MERN Architecture      ████████████░░░░  75%
+✦ System Design                   ████████░░░░░░░░  50%
+✦ AWS & Cloud Deployment          ███████░░░░░░░░░  45%
+✦ Data Engineering / Lakehouse    ██████████░░░░░░  65%
+✦ DSA Pattern Mastery             ██████████████░░  85%
+✦ DevOps & CI/CD Pipelines        ████████████░░░░  70%
+```
+
+---
+
+<div align="center">
+
+*"The best code is no code at all — but when you write it, make it count."*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=80&section=footer" width="100%" />
+
+⭐ **[Dhiraj Gupta](https://github.com/Dhiraj10002)** — Building things that matter
+
+</div>
