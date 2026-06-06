@@ -39,64 +39,7 @@ const dhiraj: Developer = {
 };
 ```
 
----
 
-## 💼 Experience
-
-### 🔹 Full-Stack Developer Intern — Zversal Pvt Ltd *(Apr 2026 – Present)*
-> Delta Lake · Docker · DuckDB · Apache Spark · Lakehouse Architecture
-
-- Evaluated **Lakekeeper** for Delta Lake metadata management — catalogs, namespaces, table governance & scalable data architectures
-- Performed data ingestion, schema evolution, metadata analysis & partition management with **Docker + Delta Lake**
-- Explored snapshot versioning, time travel & transaction logs for data lineage and auditability
-- Integrated **Delta Lake** with **DuckDB** and **Apache Spark** for modern lakehouse analytics
-
----
-
-### 🔹 Software Engineer Intern — CyberSRC Consultancy *(Jan 2026 – Mar 2026)*
-> Next.js · TypeScript · PostgreSQL · Redis · REST APIs
-
-- Architected a **CXO Risk Monitoring Dashboard** with Next.js + TypeScript for real-time executive insights
-- Reduced dashboard load time by **35%** via optimized REST API pipelines and **Redis caching**
-- Built scalable frontend components handling **50K+ records** with enhanced data visualization
-- Contributed to **microservices-aligned** modular backend architecture
-
----
-
-## 🚀 Projects
-
-<table>
-<tr>
-<td width="50%">
-
-### 🌐 Mannat Foundation
-**React · Node · Express · MongoDB · Docker · AWS · CI/CD · Nginx**
-
-> Production-grade NGO platform with real users
-
-- 🔐 JWT role-based auth — reduced manual updates by **60%**
-- ⚡ Load speed improved **30–35%** via caching & asset delivery
-- 👥 Supports **500+ monthly users**
-- 🏗️ End-to-end full-stack: content, events & campaigns
-
-</td>
-<td width="50%">
-
-### 🤖 Imagify
-**React · Node · Express · MongoDB · Redux · Generative AI · Razorpay · CI/CD**
-
-> AI text-to-image platform powered by Generative AI
-
-- 🎨 Real-time image synthesis from user prompts
-- ⚡ Reduced image generation latency by **25–30%**
-- 📦 Handles **1,000+ image generations** on a robust backend
-- 💳 Integrated **Razorpay** for payments & token management
-
-</td>
-</tr>
-</table>
-
----
 
 ## 🛠️ Tech Stack
 
@@ -158,19 +101,7 @@ const dhiraj: Developer = {
 
 </div>
 
----
 
-## 🏆 Achievements
-
-| 🏅 | Achievement |
-|---|---|
-| ⚔️ | **Knight** on LeetCode — Top 10% in problem solving |
-| 🧠 | **800+ problems** solved across LeetCode, GFG & Coding Ninjas |
-| 🇮🇳 | Cleared **Smart India Hackathon** college round among 25 teams |
-| 🏆 | **3rd place** in College Hackathon — 20+ competing teams |
-| 🎯 | Top Performer — **TATA Crucible Campus Quiz** & Naukri Young Turks 2025 |
-
----
 
 ## 📈 Activity
 
@@ -181,12 +112,12 @@ const dhiraj: Developer = {
 ## 🎯 Currently Leveling Up
 
 ```
-✦ Advanced MERN Architecture      ████████████░░░░  75%
-✦ System Design                   ████████░░░░░░░░  50%
-✦ AWS & Cloud Deployment          ███████░░░░░░░░░  45%
-✦ Data Engineering / Lakehouse    ██████████░░░░░░  65%
-✦ DSA Pattern Mastery             ██████████████░░  85%
-✦ DevOps & CI/CD Pipelines        ████████████░░░░  70%
+✦ Advanced MERN Architecture      ████████████░░░░  
+✦ System Design                   ████████░░░░░░░░  
+✦ AWS & Cloud Deployment          ███████░░░░░░░░░  
+✦ Data Engineering / Lakehouse    ██████████░░░░░░  
+✦ DSA Pattern Mastery             ██████████████░░  
+✦ DevOps & CI/CD Pipelines        ████████████░░░░  
 ```
 
 ---
