@@ -13,7 +13,7 @@
 ```
 
 <p>
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=600&lines=Full-Stack+%2F%2F+MERN+Developer;Building+Scalable+Production+Apps;React+%7C+Next.js+%7C+Node.js+%7C+TypeScript;Delta+Lake+%2B+Lakehouse+Explorer;Knight+%40+LeetCode+%7C+800%2B+Problems+Solved" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=600&lines=Full-Stack+%2F%2F+MERN+Developer;Building+Scalable+Production+Apps;React+%7C+Next.js+%7C+Node.js+%7C+TypeScript;+%2B+;Knight+%40+LeetCode+%7C+800%2B+Problems+Solved" alt="Typing SVG" />
 </p>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhirajgupta1002/)
@@ -115,7 +115,7 @@ const dhiraj: Developer = {
 ✦ Advanced MERN Architecture      ████████████░░░░  
 ✦ System Design                   ████████░░░░░░░░  
 ✦ AWS & Cloud Deployment          ███████░░░░░░░░░  
-✦ Data Engineering / Lakehouse    ██████████░░░░░░  
+✦ Data Engineering                ██████████░░░░░░  
 ✦ DSA Pattern Mastery             ██████████████░░  
 ✦ DevOps & CI/CD Pipelines        ████████████░░░░  
 ```
