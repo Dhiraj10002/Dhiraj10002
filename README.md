@@ -13,14 +13,13 @@
 ```
 
 <p>
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=600&lines=Full-Stack+%2F%2F+MERN+Developer;Building+Scalable+Production+Apps;React+%7C+Next.js+%7C+Node.js+%7C+TypeScript;+%2B+;Knight+%40+LeetCode+%7C+800%2B+Problems+Solved" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=600&lines=Full-Stack+%2F%2F;Building+Scalable+Production+Apps;React.js+%7C+Next.js+%7C+Node.js+%7C+TypeScript;+%2B+;Knight+%40+LeetCode+%7C+800%2B+Problems+Solved" alt="Typing SVG" />
 </p>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhirajgupta1002/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dhiraj10002)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/dhirajgupta1002/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5733?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/Dhiraj10002)
-[![Views](https://komarev.com/ghpvc/?username=Dhiraj10002&style=for-the-badge&color=blueviolet)](https://github.com/Dhiraj10002)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5733?style=for-the-badge&logo=vercel&logoColor=white)](https://dhiraj-my-portfolio.vercel.app/)
 
 </div>
 
