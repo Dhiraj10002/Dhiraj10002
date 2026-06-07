@@ -1,21 +1,8 @@
 <div align="center">
 
-<svg viewBox="0 0 680 120" width="100%" xmlns="http://www.w3.org/2000/svg">
-  <rect width="680" height="120" fill="#09090b"/>
-  <text x="34" y="52" font-family="monospace" font-size="24" font-weight="700" fill="#fafafa" letter-spacing="1">Dhiraj Gupta</text>
-  <text x="34" y="70" font-family="monospace" font-size="10" fill="#71717a" letter-spacing="2">FULL-STACK DEVELOPER</text>
-  <rect x="34" y="82" width="180" height="0.6" fill="#27272a"/>
-  <text x="34" y="96" font-family="monospace" font-size="9" fill="#52525b">React · Node · TypeScript</text>
-  <rect x="390" y="18" width="88" height="84" rx="6" fill="#18181b" stroke="#27272a" stroke-width="0.8"/>
-  <text x="434" y="50" text-anchor="middle" font-family="monospace" font-size="20" font-weight="700" fill="#facc15">800+</text>
-  <text x="434" y="64" text-anchor="middle" font-family="monospace" font-size="8" fill="#71717a">LC Problems</text>
-  <rect x="490" y="18" width="88" height="84" rx="6" fill="#18181b" stroke="#27272a" stroke-width="0.8"/>
-  <text x="534" y="50" text-anchor="middle" font-family="monospace" font-size="20" font-weight="700" fill="#4ade80">2+</text>
-  <text x="534" y="64" text-anchor="middle" font-family="monospace" font-size="8" fill="#71717a">Internships</text>
-  <rect x="590" y="18" width="88" height="84" rx="6" fill="#18181b" stroke="#27272a" stroke-width="0.8"/>
-  <text x="634" y="50" text-anchor="middle" font-family="monospace" font-size="20" font-weight="700" fill="#38BDF8">4+</text>
-  <text x="634" y="64" text-anchor="middle" font-family="monospace" font-size="8" fill="#71717a">Projects</text>
-</svg>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=header" width="100%" />
+
 ```
 ██████╗ ██╗  ██╗██╗██████╗  █████╗      ██╗
 ██╔══██╗██║  ██║██║██╔══██╗██╔══██╗     ██║
