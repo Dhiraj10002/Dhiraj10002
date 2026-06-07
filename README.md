@@ -12,8 +12,8 @@
                                             G U P T A
 ```
 
-<p>
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=600&lines=Full-Stack Developer;Building+Scalable+Production+Apps;React.js+%7C+Next.js+%7C+Node.js+%7C+TypeScript;Knight+%40+LeetCode+%7C+800%2B+Problems+Solved" alt="Typing SVG" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Building+Scalable+Production+Apps;React.js+%7C+Next.js+%7C+Node.js+%7C+TypeScript;Knight+%40+LeetCode+%7C+800%2B+Problems+Solved" alt="Typing SVG" />
 </p>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhirajgupta1002/)
