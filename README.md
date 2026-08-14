@@ -35,9 +35,9 @@
 const dhiraj: Developer = {
   name:        "Dhiraj Gupta",
   education:   "B.Tech CSE @ Kurukshetra University (2022–2026)",
-  location:    "Haryana, India",
+  location:    "Punjab, India",
   currentRole: "Full-Stack Developer Intern @ Zversal Pvt Ltd",
-  focus:       ["MERN Stack", "System Design", "Data Engineering", "DevOps"],
+  focus:       ["Full Stack","AWS & Cloud Deployment", "System Design", "Data Engineering", "DevOps"],
   funFact:     "I ship real-world apps, not just side projects 🚀",
 };
 ```
@@ -74,7 +74,7 @@ const dhiraj: Developer = {
 
 </details>
 
-<details>
+<details open>
 <summary><b>Databases</b></summary>
 <br>
 
@@ -85,7 +85,7 @@ const dhiraj: Developer = {
 
 </details>
 
-<details>
+<details open>
 <summary><b>DevOps & Cloud</b></summary>
 <br>
 
@@ -98,7 +98,7 @@ const dhiraj: Developer = {
 
 </details>
 
-<details>
+<details open>
 <summary><b>Tools</b></summary>
 <br>
 
