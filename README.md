@@ -131,9 +131,8 @@ const dhiraj: Developer = {
 ## 🎯 Currently Leveling Up
 
 ```
-✦ Advanced MERN Architecture      ████████████░░░░  
-✦ System Design                   ████████░░░░░░░░  
-✦ AWS & Cloud Deployment          ███████░░░░░░░░░  
+✦ Advanced MERN Architecture      ██████████████░░   
+✦ AWS & Cloud Deployment          ████████████░░░░ 
 ✦ Data Engineering                ██████████░░░░░░  
 ✦ DSA Pattern Mastery             ██████████████░░  
 ✦ DevOps & CI/CD Pipelines        ████████████░░░░  
