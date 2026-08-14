@@ -50,6 +50,7 @@ const dhiraj: Developer = {
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![GO lang](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
@@ -65,7 +66,6 @@ const dhiraj: Developer = {
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
@@ -118,24 +118,13 @@ const dhiraj: Developer = {
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Dhiraj10002&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400" />
-<img width="49%" src="https://streak-stats.demolab.com/?user=Dhiraj10002&theme=tokyonight&hide_border=true" />
-
-<br/>
-
-<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhiraj10002&theme=tokyonight&hide_border=true&layout=compact&cache_seconds=86400" />
+<img width="60%" src="https://streak-stats.demolab.com/?user=Dhiraj10002&theme=tokyonight&hide_border=true" />
 
 </div>
 
 ## 📈 Activity
 
 [![Dhiraj's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Dhiraj10002&theme=tokyo-night&hide_border=true)](https://github.com/Dhiraj10002)
-
-## 🏆 Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Dhiraj10002&theme=tokyonight&no-frame=true&row=1&column=7" />
-</div>
 
 ---
 
