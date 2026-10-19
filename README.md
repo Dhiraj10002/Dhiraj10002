@@ -1,151 +1,132 @@
 <div align="center">
 
+<img src="./assets/profile-banner.svg" width="100%" alt="Dhiraj Gupta — Building ideas into working software." />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=header" width="100%" />
+# Dhiraj Gupta
 
-```
-██████╗ ██╗  ██╗██╗██████╗  █████╗      ██╗
-██╔══██╗██║  ██║██║██╔══██╗██╔══██╗     ██║
-██║  ██║███████║██║██████╔╝███████║     ██║
-██║  ██║██╔══██║██║██╔══██╗██╔══██║██   ██║
-██████╔╝██║  ██║██║██║  ██║██║  ██║╚█████╔╝
-╚═════╝ ╚═╝  ╚═╝╚═╝╚═╝  ╚═╝╚═╝  ╚═╝ ╚════╝
-                                            G U P T A
-```
+**Full-Stack Developer · Real-Time Applications · Cloud &amp; Backend Systems**
 
+I build web applications with thoughtful interfaces, reliable APIs, and real-time data.
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Building+Scalable+Production+Apps;React.js+%7C+Next.js+%7C+Node.js+%7C+TypeScript;DSA+%7C+800%2B+Problems+Solved" alt="Typing SVG" />
+<p>
+  <a href="https://dhiraj-my-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit_my_work-0D1628?style=for-the-badge&amp;logo=vercel&amp;logoColor=5EEAD4" alt="Portfolio — visit my work" /></a>
+  <a href="https://www.linkedin.com/in/dhirajgupta1002/"><img src="https://img.shields.io/badge/LinkedIn-Let%27s_connect-0D1628?style=for-the-badge&amp;logo=linkedin&amp;logoColor=A5B4FC" alt="Connect with Dhiraj on LinkedIn" /></a>
+  <a href="https://leetcode.com/u/dhirajgupta1002/"><img src="https://img.shields.io/badge/LeetCode-800%2B_solved-0D1628?style=for-the-badge&amp;logo=leetcode&amp;logoColor=FBBF24" alt="LeetCode — 800+ problems solved" /></a>
 </p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhirajgupta1002/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dhiraj10002)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/dhirajgupta1002/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5733?style=for-the-badge&logo=vercel&logoColor=white)](https://dhiraj-my-portfolio.vercel.app/)
-
-![Profile Views](https://komarev.com/ghpvc/?username=Dhiraj10002&color=38BDF8&style=flat-square&label=Profile+Views)
+[About](#about) · [Selected projects](#selected-projects) · [Tech stack](#tech-stack) · [Learning](#currently-exploring) · [Activity](#github-activity)
 
 </div>
 
----
+## About
 
-## `whoami`
+- Full-Stack Developer Intern at **Zversal Pvt Ltd**.
+- B.Tech in Computer Science, **Kurukshetra University** · 2022–2026.
+- Based in **Punjab, India**, with interests in system design, data engineering, and cloud deployment.
+- I enjoy connecting the pieces: responsive interfaces, backend services, databases, and deployment.
 
-```ts
-const dhiraj: Developer = {
-  name:        "Dhiraj Gupta",
-  education:   "B.Tech CSE @ Kurukshetra University (2022–2026)",
-  location:    "Punjab, India",
-  currentRole: "Full-Stack Developer Intern @ Zversal Pvt Ltd",
-  focus:       ["Full Stack","AWS & Cloud Deployment", "System Design", "Data Engineering", "DevOps"],
-  funFact:     "I ship real-world apps, not just side projects 🚀",
-};
-```
+## Selected projects
 
-## 🛠️ Tech Stack
+### Stock Simulator
 
-<details open>
-<summary><b>Languages</b></summary>
-<br>
+**A paper trading platform for Indian markets.** Practise NSE equities and NFO futures and options with virtual money, streaming market data, interactive charts, and portfolio analytics.
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![GO lang](https://img.shields.io/badge/GO-000000?style=flat-square&logo=GO&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+- Delivery, intraday, and derivatives trading with order validation and a virtual wallet.
+- WebSocket market updates, Python data workers, and a Go backend backed by PostgreSQL and Redis.
+- Market news and an educational AI trade copilot.
 
-</details>
+`Next.js` `TypeScript` `Go / Gin` `Python` `PostgreSQL` `Redis` `WebSockets`
 
-<details open>
-<summary><b>Frameworks & Libraries</b></summary>
-<br>
+**[Live website](https://www.stock-simulator.in/)** · [Source code](https://github.com/Dhiraj10002/Stock-Simulator)
 
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
-![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+### Mannat Foundation
 
-</details>
+**A web platform for an NGO**, combining a responsive public website with an admin interface for content management.
 
-<details open>
-<summary><b>Databases</b></summary>
-<br>
+- React interface styled with Tailwind CSS.
+- Express API with MongoDB, JWT authentication, and Cloudinary media integration.
 
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+`React` `Vite` `Tailwind CSS` `Node.js` `Express` `MongoDB`
 
-</details>
+**[Live website](https://mannat-frontend.vercel.app/)** · [Frontend source](https://github.com/Dhiraj10002/mannat-frontend) · [Backend source](https://github.com/Dhiraj10002/mannat-backend)
 
-<details open>
-<summary><b>DevOps & Cloud</b></summary>
-<br>
+## Tech stack
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonwebservices&logoColor=black)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+**Languages**
 
-</details>
+![TypeScript](https://img.shields.io/badge/TypeScript-0D1628?style=flat-square&logo=typescript&logoColor=60A5FA)
+![JavaScript](https://img.shields.io/badge/JavaScript-0D1628?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![Go](https://img.shields.io/badge/Go-0D1628?style=flat-square&logo=go&logoColor=67E8F9)
+![Python](https://img.shields.io/badge/Python-0D1628?style=flat-square&logo=python&logoColor=93C5FD)
+![SQL](https://img.shields.io/badge/SQL-0D1628?style=flat-square&logo=postgresql&logoColor=A5B4FC)
 
-<details open>
-<summary><b>Tools</b></summary>
-<br>
+**Frontend**
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
-![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=flat-square&logo=duckdb&logoColor=black)
+![React](https://img.shields.io/badge/React-0D1628?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-0D1628?style=flat-square&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0D1628?style=flat-square&logo=tailwindcss&logoColor=67E8F9)
+![TanStack Query](https://img.shields.io/badge/TanStack_Query-0D1628?style=flat-square&logo=reactquery&logoColor=FB7185)
+
+**Backend &amp; data**
+
+![Node.js](https://img.shields.io/badge/Node.js-0D1628?style=flat-square&logo=nodedotjs&logoColor=86EFAC)
+![Express](https://img.shields.io/badge/Express-0D1628?style=flat-square&logo=express&logoColor=white)
+![Gin](https://img.shields.io/badge/Gin-0D1628?style=flat-square&logo=gin&logoColor=67E8F9)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D1628?style=flat-square&logo=postgresql&logoColor=93C5FD)
+![Redis](https://img.shields.io/badge/Redis-0D1628?style=flat-square&logo=redis&logoColor=FB7185)
+![MongoDB](https://img.shields.io/badge/MongoDB-0D1628?style=flat-square&logo=mongodb&logoColor=86EFAC)
+
+**Cloud &amp; delivery**
+
+![Docker](https://img.shields.io/badge/Docker-0D1628?style=flat-square&logo=docker&logoColor=60A5FA)
+![AWS](https://img.shields.io/badge/AWS-0D1628?style=flat-square&logo=amazonwebservices&logoColor=FBBF24)
+![Oracle Cloud](https://img.shields.io/badge/Oracle_Cloud-0D1628?style=flat-square&logoColor=FB7185)
+![Vercel](https://img.shields.io/badge/Vercel-0D1628?style=flat-square&logo=vercel&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0D1628?style=flat-square&logo=githubactions&logoColor=A5B4FC)
+
+<details>
+<summary>More tools and technologies</summary>
+
+- **Languages &amp; web:** C, C++, HTML, CSS
+- **Application development:** Redux, REST APIs, WebSockets, JWT
+- **Databases &amp; data tools:** MySQL, Supabase, Apache Spark, DuckDB
+- **Infrastructure:** Jenkins, Nginx, Cloudflare
+- **Everyday tools:** Git, Postman, VS Code, Figma
 
 </details>
 
----
+## Currently exploring
 
-## 📊 GitHub Stats
+- **System design:** API boundaries, caching strategies, and real-time data flows.
+- **Cloud &amp; DevOps:** Containerized deployments, CI/CD pipelines, and observability.
+- **Data engineering:** Data pipelines, query engines, and storage formats.
+- **Problem solving:** DSA patterns and algorithmic thinking through LeetCode practice.
 
-<div align="center">
+## GitHub activity
 
-<img width="60%" src="https://streak-stats.demolab.com/?user=Dhiraj10002&theme=tokyonight&hide_border=true" />
+<details>
+<summary>Contribution graph and coding streak</summary>
 
-</div>
+<br />
 
-## 📈 Activity
+<a href="https://github.com/Dhiraj10002">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dhiraj10002&amp;bg_color=0D1628&amp;color=A5B4FC&amp;line=5EEAD4&amp;point=F1F5F9&amp;area=true&amp;hide_border=true" width="100%" alt="Dhiraj Gupta's GitHub contribution activity graph" />
+</a>
 
-[![Dhiraj's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Dhiraj10002&theme=tokyo-night&hide_border=true)](https://github.com/Dhiraj10002)
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Dhiraj10002&amp;theme=tokyonight&amp;hide_border=true" width="480" alt="Dhiraj Gupta's GitHub contribution streak" />
+</p>
 
----
+[View contributions on GitHub](https://github.com/Dhiraj10002?tab=overview)
 
-## 🎯 Currently Leveling Up
-
-```
-✦ Advanced MERN Architecture      ██████████████░░   
-✦ AWS & Cloud Deployment          ████████████░░░░ 
-✦ Data Engineering                ██████████░░░░░░  
-✦ DSA Pattern Mastery             ██████████████░░  
-✦ DevOps & CI/CD Pipelines        ████████████░░░░  
-```
+</details>
 
 ---
 
 <div align="center">
 
-*"The best code is no code at all — but when you write it, make it count."*
+**Have an interesting problem to build around? Let's connect.**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=80&section=footer" width="100%" />
-
-⭐ **[Dhiraj Gupta](https://github.com/Dhiraj10002)** — Building things that matter
+[LinkedIn](https://www.linkedin.com/in/dhirajgupta1002/) · [Portfolio](https://dhiraj-my-portfolio.vercel.app/)
 
 </div>
