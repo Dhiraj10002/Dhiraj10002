@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">Building ideas into working software.</title>
+  <desc id="desc">A midnight-blue banner with mint and lavender accents, orbital lines, and a code symbol.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1200" y2="320" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0D1628"/>
+      <stop offset="1" stop-color="#181E39"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="65" y1="0" x2="1135" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#5EEAD4"/>
+      <stop offset="1" stop-color="#A5B4FC"/>
+    </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" stroke="#A5B4FC" stroke-opacity=".045"/>
+    </pattern>
+    <clipPath id="bounds"><rect width="1200" height="320" rx="20"/></clipPath>
+  </defs>
+  <g clip-path="url(#bounds)">
+    <rect width="1200" height="320" fill="url(#background)"/>
+    <rect width="1200" height="320" fill="url(#grid)"/>
+    <rect x="64" y="0" width="1072" height="3" rx="1.5" fill="url(#accent)"/>
+    <circle cx="1035" cy="160" r="205" stroke="#A5B4FC" stroke-opacity=".12"/>
+    <circle cx="1035" cy="160" r="154" stroke="#A5B4FC" stroke-opacity=".16"/>
+    <circle cx="1035" cy="160" r="104" fill="#5EEAD4" fill-opacity=".035" stroke="#5EEAD4" stroke-opacity=".22"/>
+    <circle cx="939" cy="40" r="5" fill="#A5B4FC"/>
+    <circle cx="888" cy="205" r="4" fill="#5EEAD4"/>
+    <path d="M1004 137L981 160L1004 183M1066 137L1089 160L1066 183M1047 124L1023 196" stroke="url(#accent)" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="64" y="70" fill="#5EEAD4" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="14" font-weight="600" letter-spacing="3">DHIRAJ GUPTA / DEVELOPER</text>
+    <text x="60" y="146" fill="#F1F5F9" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif" font-size="56" font-weight="700" letter-spacing="-1.8">Building ideas into</text>
+    <text x="60" y="211" fill="#F1F5F9" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif" font-size="56" font-weight="700" letter-spacing="-1.8">working software.</text>
+    <path d="M64 258H105" stroke="#5EEAD4" stroke-width="2"/>
+    <text x="120" y="263" fill="#A8B5CC" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif" font-size="17">Web applications. Real-time systems. Cloud infrastructure.</text>
+  </g>
+</svg>
