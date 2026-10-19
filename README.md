@@ -122,10 +122,6 @@ const dhiraj: Developer = {
 
 </div>
 
-## 📈 Activity
-
-[![Dhiraj's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Dhiraj10002&theme=tokyo-night&hide_border=true)](https://github.com/Dhiraj10002)
-
 ---
 
 ## 🎯 Currently Leveling Up
